@@ -21,7 +21,7 @@ The Gemini Language Translator leverages the power of **Large Language Models (L
 ## 🌟 Features
 
 - 🔠 **Supports Over 50 Languages**: Including English, Spanish, Arabic, Hindi, French, Chinese, Yoruba, Japanese, Russian, and more.
-- 🤖 **Powered by Gemini AI**: Uses `gemini-1.5-pro` for intelligent, high-quality translations.
+- 🤖 **Powered by Gemini AI**: Uses `gemini model` for intelligent, high-quality translations.
 - 💬 **Text-to-Speech (Optional)**: Hear the translated result spoken aloud (on supported devices).
 - 🖼️ **Clean UI**: Designed using **Streamlit** and custom CSS for an intuitive layout.
 - 📦 **Lightweight Deployment**: Can be hosted locally or deployed on platforms like Streamlit Cloud.
@@ -106,12 +106,6 @@ Follow these steps to set up the project locally:
 ## 📜 License
 This project is licensed under the MIT License.
 
-## 📬 Contact
-For any inquiries, feel free to reach out to me:
-
-- Email: [osisehirudunoghena@gmail.com]
-- LinkedIn: [www.linkedin.com/in/osiseh-irudunoghena]
-- Github: [https://github.com/Osisehh]
 
 ## 🙏 Acknowledgments
 - Thanks to Google for the Gemini API.
