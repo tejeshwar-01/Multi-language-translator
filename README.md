@@ -9,8 +9,9 @@ The Gemini Language Translator leverages the power of **Large Language Models (L
 ---
 
 ## 📸 Screenshots
-
+### Translate English to French
 ![Translation Image](translation.png)
+### Translate French to Chinese
 ![Translation Image](translation2.png)
 
 ---
