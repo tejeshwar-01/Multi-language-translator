@@ -1,5 +1,5 @@
 # Instant translate AI
-This project is a multi-language translator built using **Google's Gemini Pro (Gemini 1.5)** model and **Streamlit**. It allows users to translate text between over 50 languages through a simple and interactive web interface.
+This project is a multi-language translator built using **Google's Gemini  model and **Streamlit**. It allows users to translate text between over 50 languages through a simple and interactive web interface.
 
 ---
 
@@ -11,7 +11,7 @@ The Gemini Language Translator leverages the power of **Large Language Models (L
 ## 📸 Screenshots
 
 ![Translation Image](ENGLISH- FRENCH-EXAMPLE.png)
-![Translation Image](FRENCH - CHINESE- EXAMPLE.png)
+![Translation Image](French to chinese translation.png)
 
 ---
 
